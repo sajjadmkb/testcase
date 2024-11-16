@@ -1,0 +1,5 @@
+D:\Source\repos\TestService\src\TestService.Application\obj\Debug\net8.0\TestService.Application.csproj.AssemblyReference.cache
+D:\Source\repos\TestService\src\TestService.Application\obj\Debug\net8.0\TestService.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Source\repos\TestService\src\TestService.Application\obj\Debug\net8.0\TestService.Application.AssemblyInfoInputs.cache
+D:\Source\repos\TestService\src\TestService.Application\obj\Debug\net8.0\TestService.Application.AssemblyInfo.cs
+D:\Source\repos\TestService\src\TestService.Application\obj\Debug\net8.0\TestService.Application.csproj.CoreCompileInputs.cache

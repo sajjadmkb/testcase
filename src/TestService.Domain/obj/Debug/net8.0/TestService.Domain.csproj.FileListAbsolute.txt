@@ -1,0 +1,11 @@
+D:\Source\repos\TestService\src\TestService.Domain\bin\Debug\net8.0\TestService.Domain.deps.json
+D:\Source\repos\TestService\src\TestService.Domain\bin\Debug\net8.0\TestService.Domain.dll
+D:\Source\repos\TestService\src\TestService.Domain\bin\Debug\net8.0\TestService.Domain.pdb
+D:\Source\repos\TestService\src\TestService.Domain\obj\Debug\net8.0\TestService.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Source\repos\TestService\src\TestService.Domain\obj\Debug\net8.0\TestService.Domain.AssemblyInfoInputs.cache
+D:\Source\repos\TestService\src\TestService.Domain\obj\Debug\net8.0\TestService.Domain.AssemblyInfo.cs
+D:\Source\repos\TestService\src\TestService.Domain\obj\Debug\net8.0\TestService.Domain.csproj.CoreCompileInputs.cache
+D:\Source\repos\TestService\src\TestService.Domain\obj\Debug\net8.0\TestService.Domain.dll
+D:\Source\repos\TestService\src\TestService.Domain\obj\Debug\net8.0\refint\TestService.Domain.dll
+D:\Source\repos\TestService\src\TestService.Domain\obj\Debug\net8.0\TestService.Domain.pdb
+D:\Source\repos\TestService\src\TestService.Domain\obj\Debug\net8.0\ref\TestService.Domain.dll
